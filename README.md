@@ -16,9 +16,10 @@ import threading
 
 ### Preview
 
-<img width="223" alt="Iada" src="https://github.com/user-attachments/assets/41feb02b-c077-4176-a1ec-b5cbe5042991">
+<img width="223" alt="Iada" src="https://github.com/user-attachments/assets/d2f63832-0d95-47f1-8fc3-f2db2a1f95d2">
 
-<img width="183" alt="Снимок экрана 2024-08-24 171238" src="https://github.com/user-attachments/assets/7371c516-36cc-4b07-b3bf-fd32f4d146ce">
+
+<img width="183" alt="Снимок экрана 2024-08-24 171238" src="https://github.com/user-attachments/assets/edde2516-9b38-48a8-a185-9ecbc1a3da1c">
 
 > [!IMPORTANT]
 > Default hotkey: F4  
