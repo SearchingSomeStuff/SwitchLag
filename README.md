@@ -19,7 +19,8 @@ import threading
 <img width="223" alt="Iada" src="https://github.com/user-attachments/assets/d2f63832-0d95-47f1-8fc3-f2db2a1f95d2">
 
 
-<img width="183" alt="Снимок экрана 2024-08-24 171238" src="https://github.com/user-attachments/assets/edde2516-9b38-48a8-a185-9ecbc1a3da1c">
+<img width="221" alt="aaa" src="https://github.com/user-attachments/assets/61ce72f8-118b-4ae3-b200-66c9641b64d2">
+
 
 > [!IMPORTANT]
 > Default hotkey: F4  
